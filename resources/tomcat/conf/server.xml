@@ -23,8 +23,7 @@
            bindOnInit='false' 
            maxThreads='1550'
            keepAliveTimeout="60000" 
-           connectionTimeout='120000' 
-           connectionTimeout='20000'
+           connectionTimeout='120000'
            maxKeepAliveRequests='1000'
         />
 
